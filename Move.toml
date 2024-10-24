@@ -1,0 +1,16 @@
+[package]
+name = "voting-dapp"
+version = "1.0.0"
+authors = []
+
+[addresses]
+CrossUniversity = '0x0b2184d8e48b5022c5d629016af2812dee26d698621f1b6e3a9717dfd0a5919e'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
