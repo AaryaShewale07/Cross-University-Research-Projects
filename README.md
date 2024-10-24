@@ -1,5 +1,3 @@
-# Cross-University-Research-Projects
-
 # Cross-University Research Collaboration Smart Contract
 
 ## Vision
